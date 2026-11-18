@@ -99,4 +99,8 @@ server.listen(3000, () => {
 // Practicing Git diff
 // login started
 // Updated from github
+<<<<<<< HEAD
 const appAlias = "TaskFlow Pro - Version Beta";
+=======
+const appAlias = "taskFlow Pro - Beta";
+>>>>>>> conflict-practice
